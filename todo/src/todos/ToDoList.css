@@ -1,0 +1,13 @@
+
+
+.list-wrapper{
+    width: 300px;
+    max-width: 75%;
+    background: #02a9f7;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 0 19px 38px rgba(1, 48, 63, 0.3), 0 15px 12px rgba(149, 180, 251, 0.22);
+}

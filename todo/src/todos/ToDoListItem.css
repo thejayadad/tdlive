@@ -1,0 +1,43 @@
+
+.todo-item{
+
+    border-radius: 5px;
+    text-align: left;
+    margin-top: 4px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    color: white;
+}
+
+h3{
+    width: 210px;
+    border-bottom: 1px solid #d4f0fc;
+    font-weight: 100;
+}
+.complete, .remove{
+    padding: 0 3px;
+    background: transparent;
+    border: none;
+    font-size: 20px;
+}
+.complete{
+    color: #00d7a1
+}
+.remove{
+    color: #f43449;
+
+}
+.btn-container{
+    display: flex;
+    justify-content: space-between;
+}
+#minus{
+    background-color: white;
+    border-radius: 50%;
+}
+button:hover{
+    transform: scale(1.5);
+    z-index: 1;
+    cursor: pointer;
+}

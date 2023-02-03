@@ -1,0 +1,22 @@
+
+
+.btn{
+    background: none;
+    border: none;
+    font-size: 40px;
+    background: #02a9f7;
+    color: white;
+    cursor: pointer;
+}
+
+input{
+    padding: 10px;
+    border-radius: 3px 0 0 3px;
+    border: 0px;
+    width: 220px;
+    outline: none;
+    border-bottom: 1px solid #d4f0fc;
+    background: transparent;
+    color: #d4f0fc;
+    cursor: pointer;
+}
